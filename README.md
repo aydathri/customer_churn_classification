@@ -36,6 +36,12 @@ The goal is to identify which customers are likely to leave the company.
 
 ---
 
+## Dataset
+- Format: CSV
+- Path: `https://www.kaggle.com/datasets/palashfendarkar/wa-fnusec-telcocustomerchurn`
+
+---
+
 ## Project Structure
 
 CustomerChurnML/
